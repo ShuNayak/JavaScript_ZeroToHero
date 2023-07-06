@@ -1,8 +1,8 @@
 A programming language is a tool which instructs the computer to do something.
-JS is a high level language meaning we dont have to think too much about the intricacies about memory management etc while it runs as a programming.
+JS is a high level language meaning we dont have to think too much about the intricacies about memory management etc while it runs as a programming language.
 JS is OO : Object is used for storing most kinds of data
 JS is multi paradigm: imperative as well as declarative
 
 Role in web dev: 
 1. HTML + CSS + JS = dynamic websites [ html is content , css is presentation , js is real logic, dynamic & interactive contents]
-2. JS helps addic content as well as create web applications on browser 
+2. JS helps adding content as well as create web applications on browser.
